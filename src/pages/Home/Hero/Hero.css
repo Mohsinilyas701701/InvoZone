@@ -1,0 +1,10 @@
+.home_hero {
+  background-image: url("../../../assets/home-hero.svg");
+  background-color: var(--text-white);
+  background-position: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  width: 100%;
+  height: calc(100vh - 7.4rem);
+}
